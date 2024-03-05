@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="categories">
+        <item>Otoplus</item>
+        <item>Araba</item>
+        <item>Telefon</item>
+        <item>Ev Eşyaları</item>
+        <item>Elektronik</item>
+        <item>Motosiklet</item>
+        <item>Diğer Araçlar</item>
+        <item>Bebek ve Çocuk</item>
+        <item>Spor ve Outdoor</item>
+        <item>Hobi ve Eğlence</item>
+        <item>Giyim ve Aksesuar</item>
+    </string-array>
+    <string-array name="category_icon_drawables">
+        <item>c_otoplus</item>
+        <item>c_araba</item>
+        <item>c_telefon</item>
+        <item>c_evesyalari</item>
+        <item>c_elektronik</item>
+        <item>c_motorsiklet</item>
+        <item>c_digeraraclar</item>
+        <item>c_bebekvecocuk</item>
+        <item>c_sporveoutdoor</item>
+        <item>c_hobiveeglence</item>
+        <item>c_giyimveaksesuar</item>
+    </string-array>
+</resources>
+

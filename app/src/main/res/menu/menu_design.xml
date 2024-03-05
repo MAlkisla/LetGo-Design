@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homapageFragment"
+        android:icon="@drawable/home_bottom"
+        android:title="ANA SAYFA"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <item
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/chat_bottom"
+        android:title="SOHBETLER" />
+    <item
+        android:title="SAT"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <item
+        android:icon="@drawable/heart_full"
+        android:title="İLANLARIM"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <item
+        android:icon="@drawable/user_bottom"
+        android:title="HESAP"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+</menu>
